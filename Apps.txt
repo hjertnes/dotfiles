@@ -1,0 +1,115 @@
+(A Document Being Saved By Sparkle)
+1Blocker.app
+1Password for Safari.app
+1Password.app
+Actions for Obsidian.app
+Agenda.app
+Airmail.app
+Alfred 5.app
+Amphetamine.app
+Arc.app
+BBEdit.app
+Backblaze.app
+Bike.app
+Boop.app
+Bunch.app
+CEWE Fotoimport.app
+CEWE Fotoverden.app
+CEWE Fotoview.app
+Carbon Copy Cloner.app
+CenterMouse.app
+Command X.app
+DaisyDisk.app
+Day One.app
+Day Progress.app
+Deckset.app
+Deeper.app
+Discord.app
+Docker.app
+Drafts.app
+Dropbox.app
+EjectBar.app
+Elgato Stream Deck.app
+FMail2.app
+Fantastical.app
+FastScripts.app
+Firefox Developer Edition.app
+Front and Center.app
+GoodLinks.app
+Hazel.app
+Hyperduck.app
+Instapaper Save.app
+Instapaper.app
+Ivory.app
+Ivory.localized
+JetBrains Toolbox.app
+Jiffy.app
+Kaleidoscope.app
+Keybase.app
+Keyboard Maestro.app
+LaunchBar.app
+MacGPT.app
+Manila.app
+MarkEdit.app
+Mela.app
+Microsoft Excel.app
+Microsoft OneNote.app
+Microsoft Outlook.app
+Microsoft PowerPoint.app
+Microsoft Teams (work preview).app
+Microsoft Teams classic.app
+Microsoft Word.app
+Mona Beta.app
+Music MiniPlayer.app
+Music Remote.app
+Music Widget.app
+NetNewsWire.app
+Numbers.app
+Obsidian.app
+One Thing.app
+OneDrive.app
+OrbStack.app
+Pandan.app
+Pasteboard Viewer.app
+Pins.app
+Postico 2.app
+Pure Paste.app
+ReadKit.app
+Rectangle Pro.app
+Rocket.app
+SF Symbols.app
+Safari.app
+Scapple.app
+Send to Kindle
+Setapp
+Setapp.app
+Shareful.app
+Slack.app
+Spaced.app
+Spaceman.app
+Spring.app
+SwitchGlass.app
+TableFlip.app
+Taio.app
+TestFlight.app
+TextBuddy.app
+TextExpander.app
+Textual 7.app
+Things3.app
+Timery.app
+Today.app
+Tot.app
+Tower.app
+Utilities
+Visual Studio Code - Insiders.app
+Visual Studio Code.app
+Wallaroo.app
+WhatsApp.app
+WhichSpace.app
+Xcode.app
+iA Writer.app
+iPulse.app
+iTerm.app
+nvUltra.app
+tic80.app
+xScope.app
